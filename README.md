@@ -1,7 +1,5 @@
 # Homework Assignment 13
 
-![Assignment 13](https://github.com/PGE323M/assignment13/workflows/.github/workflows/main.yml/badge.svg)
-
 ## Instructions
 
 Consider the reservoir shown below with the given properties that has been discretized into unequal grid blocks.
